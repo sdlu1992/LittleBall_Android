@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DemoGravityActivity!</string>
+    <string name="app_name">LittleBall</string>
+    <string name="exit">退出</string>
+    <string name="isexit">是否退出？</string>
+    <string name="yes">确定</string>
+    <string name="dismiss">取消</string>
+
+</resources>
